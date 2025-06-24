@@ -61,7 +61,7 @@ Special thanks to:
 
 ## 📬 Contact
 
-Reach out on [Git](https://github.com/mubasshirahmed-3712)t via LinkedIn (optional)
+Reach out on [Git](https://github.com/mubasshirahmed-3712) via LinkedIn(www.linkedin.com/in/mubasshir3712)
 
 ---
 

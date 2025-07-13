@@ -32,7 +32,7 @@ This dashboard was developed by **Mubasshir Ahmed** as part of the **Full Stack 
 
 Here’s a preview of what the app looks like when running:
 
-![Dashboard UI](GradioUI.png)
+![Dashboard UI](assets/GradioUI.png)
 
 ---
 

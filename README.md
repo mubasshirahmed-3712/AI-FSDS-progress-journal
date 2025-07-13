@@ -22,12 +22,28 @@ This repository serves as my personal learning tracker for the **Full Stack Data
 ```bash
 AI-FSDS-progress-journal/
 │
-├── FSDS_Task1.ipynb           # Python basics, arithmetic, strings
-├── FSDS_Task2.ipynb           # Print statements, formatting, f-strings
-├── FSDS_Task3/                # Python scripts: variables, strings, operators
-├── FSDS_Task4.ipynb           # Identifiers, comments, data types
-├── FSDS_Task5/                # Lists: indexing, slicing, methods
-├── README.md                  # You're reading it!
+├── FSDS_Task1.ipynb                   # Python basics: numbers, arithmetic, strings
+├── FSDS_Task2.ipynb                   # Print statements, formatting, f-strings
+├── FSDS_Task3/                        # Python scripts:
+│   ├── basic_arithmetic.py
+│   ├── string_operations.py
+│   ├── operator_usage.py
+│   └── variable_assignment.py
+├── FSDS_Task4.ipynb                   # Identifiers, comments, data types
+├── FSDS_Task5.ipynb                   # Lists: indexing, slicing, methods
+├── FSDS_Task6.ipynb                   # Tuples: creation, unpacking, iteration
+├── FSDS_Task7.ipynb                   # Sets & dictionaries: creation, operations, loops
+├── FSDS_Task8.ipynb                   # Python range, all operators, number systems
+├── FSDS_Task9.ipynb*                  # (To be updated when completed)
+├── FSDS_Task10_NumPy.ipynb            # NumPy: arrays, indexing, math, random, utils
+├── FSDS_Task11_Matplotlib.ipynb       # Matplotlib: plots, styling, subplots
+│
+├── 2025-07-08_Image_Processing_PIL/   # PIL basics: open, resize, rotate, filters
+├── 2025-07-12_MATPLOTLIBxGRADIO/      # Combined Matplotlib + Gradio UI project
+├── 2025-07-13_seabornXstreamlit-visualizer/  # Seaborn visualizer app with Streamlit
+│
+└── README.md                          # Repository overview and structure
+
 ```
 
 ---

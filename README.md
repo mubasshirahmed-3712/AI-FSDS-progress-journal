@@ -63,7 +63,6 @@ Special thanks to:
 
 - **Instructor:** [@kodigitaccount](https://github.com/kodigitaccount) (K. Prakash Senapati)
 - My peers in the **FSDS @10AM** batch
-- [Alex The Analyst](https://www.youtube.com/c/AlexTheAnalyst) for MySQL tutorials I'm also following
 
 ---
 

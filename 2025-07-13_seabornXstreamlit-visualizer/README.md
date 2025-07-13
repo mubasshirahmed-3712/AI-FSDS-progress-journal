@@ -7,11 +7,14 @@ This project showcases insightful patterns in restaurant tipping behavior using 
 
 ---
 
-## 📸 App Previews
+## 🎬 App Preview (Live Demo)
 
-| Streamlit App UI | Example Plot |
-|------------------|--------------|
-| ![UI Screenshot](assets/ui-overview.png) | ![Bar Plot](assets/barplot-example.png) |
+Here's a short walkthrough of the interactive Streamlit dashboard built with Seaborn. It showcases tipping behavior across time, gender, and other variables.
+
+🎥 **Video Demo:**  
+[Click to watch the demo](assets/Ui_overview.mp4)
+
+> 📂 File: `assets/Ui_overview.mp4` (Add to your GitHub repo’s assets folder)
 
 ---
 
@@ -124,9 +127,10 @@ streamlit run app/sns_app_cleaned.py
 
 ## 🤝 Acknowledgements
 
-- Guided by **Kodigit**
+- Guided by [**K. Praskash senapati sir**](https://github.com/kodigitaccount) — for mentorship during the Seaborn Bootcamp  
 - Powered by **Seaborn**, **Matplotlib**, and **Streamlit**
 - Developed with passion by **Mubasshir Ahmed**
+
 
 ---
 
@@ -134,7 +138,7 @@ streamlit run app/sns_app_cleaned.py
 
 **Mubasshir Ahmed**  
 Aspiring Data Scientist | FSDS Bootcamp Trainee  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) *(update if needed)*
+🔗 [LinkedIn](https://www.linkedin.com/in/mubasshir3712) 
 
 ---
 

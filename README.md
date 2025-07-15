@@ -70,7 +70,7 @@ Special thanks to:
 
 - Upload upcoming tasks and capstone projects
 - Build end-to-end ML workflows
-- Begin publishing blog summaries of each notebook.
+- Begin publishing blog summaries of each notebook
 
 ---
 

@@ -1,6 +1,6 @@
 # 🧠 AI-FSDS Progress Journal.
 
-Welcome to my **AI-Full Stack Data Science Progress Journal** – a curated collection of practical tasks, notebooks, and Python exercises completed as part of the **FSDS @10AM** batch under the mentorship of **@kodigitaccount (K. Prakash Senapati)**.
+Welcome to my **AI-Full Stack Data Science Progress Journal** – a curated collection of practical tasks, notebooks, and Python exercises completed as part of the **FSDS @10AM** batch under the mentorship of **@kodigitaccount (K. Prakash Senapati)**
 
 ---
 

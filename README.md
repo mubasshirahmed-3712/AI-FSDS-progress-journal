@@ -34,7 +34,7 @@ AI-FSDS-progress-journal/
 ├── FSDS_Task6.ipynb                   # Tuples: creation, unpacking, iteration
 ├── FSDS_Task7.ipynb                   # Sets & dictionaries: creation, operations, loops
 ├── FSDS_Task8.ipynb                   # Python range, all operators, number systems
-├── FSDS_Task9.ipynb*                  # (To be updated when completed)
+├── FSDS_Task9.ipynb                 # (To be updated when completed)
 ├── FSDS_Task10_NumPy.ipynb            # NumPy: arrays, indexing, math, random, utils
 ├── FSDS_Task11_Matplotlib.ipynb       # Matplotlib: plots, styling, subplots
 │

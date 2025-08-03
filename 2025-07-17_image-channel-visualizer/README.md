@@ -36,7 +36,7 @@ This project demonstrates how to separate RGB channels, convert images to graysc
 
 ## 🖼️ App Snapshot
 
-![App Snapshot](outputs/Image%20Channel%20Visualizer%20-%20snapshot.png)
+![App Snapshot](output/ImageChannelVisualizer-snapshot.png)
 
 ---
 
